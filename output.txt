@@ -1,0 +1,18 @@
+infix : a + n * p 
+postfix : anp*+
+---------------
+infix : (a * g) * s 
+postfix : ag*s*
+---------------
+infix : (b * b ) * ( f * g )
+postfix : bb*f*g*
+---------------
+infix : (a*m)(a/t)
+postfix : ama*t/
+---------------
+infix : (a - m )()
+postfix : am-
+---------------
+infix : ((a+b)
+postfix : ab+
+---------------
